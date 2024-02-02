@@ -4,11 +4,11 @@ class Conexion {
     var $empresa;
 
 
-	private $MYSQL_HOST = "localhost";
+	private $MYSQL_HOST = "database";
     //private $MYSQL_DB = "Picks";
-    private $MYSQL_DB = "Picks_nuevo";
-    private $MYSQL_LOGIN = "root";
-    private $MYSQL_PASS = "";
+    private $MYSQL_DB = "lamp";
+    private $MYSQL_LOGIN = "lamp";
+    private $MYSQL_PASS = "lamp";
 
 
 
